@@ -1,0 +1,12 @@
+# Ignore environment files and sensitive info
+.env
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+*.pyc
+
+#  virtual environment
+venv/
+.env/
+nex/
+.nex/
